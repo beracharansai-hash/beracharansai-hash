@@ -1,16 +1,84 @@
-## Hi there 👋
+# Hi, I'm Bera Charan Sai 👋
 
-<!--
-**beracharansai-hash/beracharansai-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Python Developer | Full-Stack Developer | AI/ML Enthusiast
 
-Here are some ideas to get you started:
+🎓 B.Tech in Computer Science – Artificial Intelligence & Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Passionate about building web applications, backend systems, and AI-powered solutions.
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming
+- Python
+- JavaScript
+
+### Frontend
+- HTML
+- CSS
+- React.js
+- Material UI
+
+### Backend
+- Node.js
+- Express.js
+- FastAPI
+- REST APIs
+
+### Databases
+- MySQL
+- MongoDB
+- SQLite
+
+### Tools
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 🚀 Featured Projects
+
+### 🏫 Integrated College Management System
+A full-stack college management system built using React.js, Node.js, Express.js and MongoDB.
+
+**Tech Stack:** React.js | Material UI | Redux | Node.js | Express.js | MongoDB | REST APIs
+
+### 🤖 AI Resume Analyzer
+An AI-powered application designed to analyze resumes and provide ATS-oriented insights.
+
+**Tech Stack:** React.js | Python | FastAPI | SQLite
+
+
+**Tech Stack:** Python | MobileNetV2 | Deep Learning | Grad-CAM | Flask
+
+### ⚡ Smart EV Charging Station Management System
+A web-based system for managing EV charging station operations.
+
+---
+
+## 📜 Certifications
+
+- Python – Infosys Springboard
+- HTML & CSS – Infosys Springboard
+- Generative AI Virtual Internship – 2025
+
+---
+
+## 🎯 Currently Learning
+
+- Advanced Python
+- React.js
+- Node.js
+- REST APIs
+- Full-Stack Development
+- AI/ML
+
+---
+
+## 📫 Connect With Me
+
+🔗 [LinkedIn](https://www.linkedin.com/in/bera-charan-sai-253972322/)
+
+💻 [GitHub](https://github.com/beracharansai-hash)
